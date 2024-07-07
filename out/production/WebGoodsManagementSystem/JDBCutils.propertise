@@ -1,0 +1,6 @@
+driverclass=com.mysql.cj.jdbc.Driver
+username=root
+password=2145
+urluser=jdbc:mysql://localhost:3306/user?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone = GMT
+urlgoods=jdbc:mysql://localhost:3306/goods?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone = GMT
+urlsituation=jdbc:mysql://localhost:3306/situation?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone = GMT
